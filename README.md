@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Bot de Estudos Telegram
 
 Assistente pessoal de estudos desenvolvido em Python para organizar exercícios, armazenar materiais acadêmicos e enviar lembretes automáticos pelo Telegram, com integração de inteligência artificial para classificação e resumo dos conteúdos.
@@ -159,3 +160,6 @@ Além de auxiliar na organização dos estudos, este projeto é uma oportunidade
 **Linguagem:** Python.
 
 **Finalidade:** organização acadêmica e automação de tarefas de estudo.
+=======
+# bot-estudos
+>>>>>>> 563a6bedfbbc564a70855362c9fa7b3ec801863f
